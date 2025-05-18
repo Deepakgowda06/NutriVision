@@ -62,7 +62,6 @@ python app.py
 ## 🧑‍💻 Author
 
 **Deepak Gowda**  
-Final Year CSE Student, Maharaja Institute of Technology  
 📍 Mandya, India  
 [GitHub](https://github.com/Deepakgowda06)
 
