@@ -43,7 +43,7 @@ NutriVision/
 ```bash
 git clone https://github.com/Deepakgowda06/NutriVision.git
 cd NutriVision
-pip install  requirements
+install  requirements
 python app.py
 ```
 
@@ -62,7 +62,6 @@ python app.py
 ## 🧑‍💻 Author
 
 **Deepak Gowda**  
-Final Year CSE Student, Maharaja Institute of Technology  
 📍 Mandya, India  
 [GitHub](https://github.com/Deepakgowda06)
 
